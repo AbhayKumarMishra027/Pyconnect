@@ -17,7 +17,9 @@ Automatically creates the online_exam database and necessary tables if they don'
 Usage, 
 
 Add Students: Add student records such as user ID, password, email, name, roll number, and phone number.
+
 Manage Subjects: Add details of subjects, including the subject ID, name, credits, and teacher's name.
+
 Manage Exams: Add details of exams such as the exam ID, student ID, subject ID, and exam link.
 
 You can also search for, update, or delete student and subject records based on their IDs.
